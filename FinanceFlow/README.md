@@ -1,27 +1,7 @@
 # Finance Management App
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/67bbc49b-2d5f-4352-82db-8b56ef6405a1/deploy-status)](https://app.netlify.com/sites/finance-management/deploys)
-
 This application helps you keep track of your expenses and earnings from month to month by calculating their total.  
 By keeping track of all your expenses and earnings, you realize where your money is going and how your finance is going.
-
-## Table of contents
-
-- [Overview](#overview)
-  - [About App](#about-app)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
-- [Getting Started](#getting-started)
-  - [System Requirements](#system-requirements)
-  - [Installation](#installation)
-  - [Bugs](#bugs)
-  - [Contributing](#contributing)
-- [Author](#author)
-- [Licence](#licence) 
-
-## Overview
 
 ### About App
 
