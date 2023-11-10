@@ -5,10 +5,6 @@
 This application helps you keep track of your expenses and earnings from month to month by calculating their total.  
 By keeping track of all your expenses and earnings, you realize where your money is going and how your finance is going.
 
-<em>Work in progress...</em>
-
-![Finance Management app](./screenshot.webp)
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -47,13 +43,6 @@ Upcoming Features:
 - ascending - descending order based on date
 - if you have other interesting features to propose or request write to us!
 
-### Links
-
-- Repository URL: [github](https://github.com/travolgi/react-firebase-finance-management)
-- Live Site URL: [live site](https://finance.travolgi.com)
-
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
@@ -87,25 +76,6 @@ npm --version
 ```
 If requirements above are not installed in your computer, you'll need to install them. By clicking on them you can go to their website, which can lead you the way.
 
-### Installation
-
-- Clone the repository
-  ```sh
-  git clone https://github.com/travolgi/react-firebase-finance-management.git
-  ```
-- Navigate to repository folder
-  ```sh
-  cd react-firebase-finance-management
-  ```
-- Install npm packages
-  ```sh
-  npm install
-  ```
-- To run the app in the development mode run in the project directory: 
-  ```sh
-  npm start
-  ```
-
 ### Bugs
 
 Please feel free to create an issue if you see a bug or something unexpected in the app.
@@ -117,13 +87,3 @@ Please feel free to create an issue if you see a bug or something unexpected in 
 - Commit your Changes (`git commit -m 'Brief explanation of feature`')
 - Push to the Branch (`git push origin feature/yourFeature`)
 - Open a Pull Request
-
-## Author
-
-- Website - [travolgi](https://travolgi.com)
-- Github - [travolgi](https://github.com/travolgi)
-
-## Licence 
-[MIT licence](https://github.com/travolgi/react-firebase-finance-management/blob/main/LICENSE)
-
-React is [MIT licence](https://github.com/facebook/react/blob/main/LICENSE)
